@@ -1,6 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do:
-## - makeCacheMatrix: defines and several memory manipulation functions
+## - makeCacheMatrix: defines several memory manipulation functions
 ##   for storing/getting data variables located in his environment
 ## - cacheSolve: computes the inverse and save it the memory environment 
 ##   the first time you calls it.
